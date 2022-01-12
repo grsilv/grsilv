@@ -2,7 +2,7 @@
 
 - ⚙️ sem trabalho ainda
 - 📚 estudando C#
-- <body link="green">📧 contate-me: contatogrsilva@gmail.com</body>
+- 📧 contate-me: contatogrsilva@gmail.com
 - 😄 ele/dele
 <div>
   <a href="https://github.com/grsilv">
