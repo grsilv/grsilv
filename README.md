@@ -1,9 +1,9 @@
-### Oiii eu sou o Gui!
+### Hi! I'm Gui!
 
-- ⚙️ sem trabalho ainda
-- 📚 estudando C#
-- 📧 contate-me: contatogrsilva@gmail.com
-- 😄 ele/dele
+- ⚙️ jobless
+- 📚 studying C#
+- 📧 contact: contatogrsilva@gmail.com
+- 😄 he/him
 <div>
   <a href="https://github.com/grsilv">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=grsilv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
