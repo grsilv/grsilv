@@ -1,7 +1,7 @@
 ### Hi! I'm Gui!
 
 - ⚙️ jobless
-- 📚 studying C#
+- 📚 studying C# and html
 - 📧 contact: contatogrsilva@gmail.com
 - 😄 he/him
 <div>
